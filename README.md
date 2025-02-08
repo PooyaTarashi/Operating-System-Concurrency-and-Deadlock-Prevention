@@ -12,6 +12,7 @@ This repository contains solutions to the fourth series of exercises for the Ope
 
 3. **Intersection Management**
    - Implements a deadlock-free traffic management system for a robotic car intersection which allows simultaneous movement without collisions.
+   > This solution is based on Dijkstra's algorithm to dining philosophers problem.
 
 4. **AI Agents Pathfinding**
    - Simulates multiple AI agents moving on a grid while avoiding collisions.
